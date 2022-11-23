@@ -7,9 +7,9 @@ const ParkListItem = ( { park } ) => {
             <section>
                 <h4> { park.name } </h4>
                 <p>
-                    { park.about }
+                    { park.address }
                 </p>
-                <h5>Ammenities</h5>
+                <h5>Amenities</h5>
                 <ul>
                     <li>⚾️  ✅</li>
                     <li>🎾  ❌</li>

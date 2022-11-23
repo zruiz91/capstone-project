@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import ParkListItem from './ParkListItem'
-
+//temporary front-end DB
 import parks from "../parks";
 
 const ParkList = () => {
